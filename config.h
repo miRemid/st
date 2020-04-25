@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code:pixelsize=18:antialias=true:autohint=true";
+static char *font = "Fira Code:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -83,7 +83,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.6;
+float alpha = 0.8;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
@@ -108,7 +108,7 @@ static const char *colorname[] = {
 	[15] = "#ffffff", /* white   */
 
 	/* special colors */
-	[256] = "#282a36", /* background */
+	[256] = "#cceeff", /* background */
 	[257] = "#f8f8f2", /* foreground */
 };
 

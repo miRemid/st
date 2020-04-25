@@ -1,3 +1,9 @@
+# 个人用st terminal config
+#### 补丁
+- Alpha透明度
+- 隐藏鼠标
+- 设定上翻按键
+- ......
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
