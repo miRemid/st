@@ -3,6 +3,7 @@
 - Alpha透明度
 - 隐藏鼠标
 - 设定上翻按键
+- Font Ligatures
 - ......
 st - simple terminal
 --------------------
